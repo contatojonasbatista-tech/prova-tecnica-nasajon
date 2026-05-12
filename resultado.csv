@@ -1,0 +1,11 @@
+municipio,municipio_encontrado,uf,regiao,populacao,status
+Niteroi,Niterói,RJ,Sudeste,515317,ok
+Sao Gonçalo,São Gonçalo,RJ,Sudeste,1091737,ok
+Sao Paulo,São Paulo,SP,Sudeste,12396372,ok
+Belo Horzionte,Belo Horizonte,MG,Sudeste,2530701,aproximado
+Florianopolis,Florianópolis,SC,Sul,516524,ok
+Santo Andre,Santo André,SP,Sudeste,723889,ok
+Santoo Andre,Santo André,SP,Sudeste,700000,aproximado
+Rio de Janeiro,Rio de Janeiro,RJ,Sudeste,6718903,ok
+Curitba,Curitiba,PR,Sul,1963726,aproximado
+Brasilia,Brasília,DF,Centro-Oeste,3094325,ok
